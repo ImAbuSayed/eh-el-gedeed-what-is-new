@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eh-el-gedeed-what-is-new/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Eh El Gedeed – What is new?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
