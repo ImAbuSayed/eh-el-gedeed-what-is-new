@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eh El Gedeed – What is new?
+
+This log tracks the cryptographic history and versioning for the song **Eh El Gedeed – What is new?** (eh-el-gedeed-what-is-new).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:03:45.956651 | `v1` | `2eaa448e1c6a5988e4b395b3b9577760ce0228567ac3cffeee500f6483d8f61c` | `ce44f14373df5dda9aefa2e9924d2b04fae440bf94377805795db89d533a5772` | `2026-05-09_eh-el-gedeed-what-is-new-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
